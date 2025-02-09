@@ -3,6 +3,7 @@
 # Build directories and output files
 Release/
 x64/
+.vs/
 
 # Visual Studio files
 *.sln
