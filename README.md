@@ -19,11 +19,11 @@ This project is a 3D rendering application built using OpenGL. It features:
 ## **Screenshots**
 
 
-   ![](./path/to/your-image1.png)  
+   ![](./screenshots/2.png)  
 
 
 
-   ![](./path/to/your-image2.png)
+   ![](./screenshots/1.png)  
 
 ---
 
