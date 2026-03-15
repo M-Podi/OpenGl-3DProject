@@ -37,7 +37,7 @@ This project is a 3D rendering application built using OpenGL. It features:
 ## **Installation and Usage**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   https://github.com/M-Podi/OpenGl-3DProject.git
 
 
 2. Build the project using Visual Studio or your preferred IDE.
